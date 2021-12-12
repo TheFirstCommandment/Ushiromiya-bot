@@ -1,0 +1,2 @@
+# Ushiromiya-bot
+Discord bot
